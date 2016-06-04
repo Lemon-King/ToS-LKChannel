@@ -1,0 +1,17 @@
+[
+	{
+		"name" : "LK Channel",
+		"file" : "lkchannel",
+		"extension" : "ipf",
+		"releaseTag" : "v0.1",
+		"fileVersion" : "v0.1",
+		"unicode" : "👑",
+		"description" : "Displays the number of players in a channel.",
+		"tags" : [
+			"ui",
+			"channel",
+			"population",
+			"players"
+		]
+	}
+]
